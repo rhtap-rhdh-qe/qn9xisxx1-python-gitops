@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: qn9xisxx1-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/qn9xisxx1-python
